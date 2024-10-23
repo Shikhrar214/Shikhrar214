@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shikhrar214
+- 👋 Hi, I’m Shikhar Srivastav
 - 👀 I’m interested in full-stack development with a focus on JavaScript and Python.
 - 🌱 I’m currently learning react-js
 - 💞️ I’m looking to collaborate on Full-stack development projects, with a focus on JavaScript and Python. Particularly interested in working on web applications and scalable solutions.
