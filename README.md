@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - linkedin: www.linkedin.com/in/shikhar-srivastav-48620a231
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: "My code works perfectly… until I show it to someone!" 😆
 
 <!---
 Shikhrar214/Shikhrar214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
