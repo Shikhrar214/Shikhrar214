@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikhar Srivastav
-- 👀 I’m interested in full-stack development with a focus on JavaScript and Python.
-- 🌱 I’m currently learning react-js
-- 💞️ I’m looking to collaborate on Full-stack development projects, with a focus on JavaScript and Python. Particularly interested in working on web applications and scalable solutions.
+- 👀 I’m interested in full-stack development with a focus on JavaScript and Typescript.
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Full-stack development projects, with a focus on JavaScript and Typescript. Particularly interested in working on web applications and scalable solutions.
 - 📫 How to reach me
 - linkedin: www.linkedin.com/in/shikhar-srivastav-48620a231
 - 😄 Pronouns: He
